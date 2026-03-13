@@ -1,2 +1,2 @@
 # Demo
-Just a demo to practice GitHub
+Just a demo to practice GitHub.
